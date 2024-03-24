@@ -1,4 +1,4 @@
-package leetcode.quques.problem_933;
+package leetcode.queues.problem_933;
 
 import java.util.ArrayList;
 import java.util.Iterator;
