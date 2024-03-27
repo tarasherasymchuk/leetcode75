@@ -1,4 +1,4 @@
-![progress](https://progress-bar.dev/31/?scale=75&title=Progress&width=100&color=babaca&suffix=%20of%2075)
+![progress](https://progress-bar.dev/32/?scale=75&title=Progress&width=100&color=babaca&suffix=%20of%2075)
 
 ## Leetcode 75
 
