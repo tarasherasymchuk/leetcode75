@@ -9,5 +9,5 @@ file_name="Main.java"
 count=$(find "$directory" -type f -name "$file_name" | grep -c "$file_name")
 
 sed -i '' -e '1d' README.md
-sed -i '' '1s/^/![progress](https:\/\/progress-bar.dev\/'"$count"'\/?scale=75\&title=Progress\&width=100\&color=babaca\&suffix=%20of%2075)\n/' README.md
+sed -i '' '1s/^/![progress](https:\/\/img.shields.io\/badge\/Progress:-'"$count"'_\/_75-plastic)\n/' README.md
 git add .

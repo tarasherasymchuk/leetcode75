@@ -1,4 +1,4 @@
-![progress](https://progress-bar.dev/33/?scale=75&title=Progress&width=100&color=babaca&suffix=%20of%2075)
+![progress](https://img.shields.io/badge/Progress:-33_/_75-plastic)
 
 ## Leetcode 75
 
