@@ -1,4 +1,4 @@
-![progress](https://img.shields.io/badge/Progress:-33_/_75-plastic)
+![progress](https://img.shields.io/badge/Progress:-34_/_75-plastic)
 
 ## Leetcode 75
 
